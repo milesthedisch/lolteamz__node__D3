@@ -6,6 +6,7 @@ var db = mongoose.connect('mongodb://localhost/bookAPI');
 var Book = require('./models/bookModel');
 
 var app = express();
+var hello = console.log('first deployment')
 
 var port = process.env.PORT || 3000;
 
