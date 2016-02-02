@@ -1,0 +1,16 @@
+{
+  "name": "loltmz",
+  "version": "0.0.1",
+  "description": "A lol team app that gets rid of haters",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Miles Disch",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4",
+    "gulp": "^3.9.0",
+    "mongoose": "^4.3.7"
+  }
+}
